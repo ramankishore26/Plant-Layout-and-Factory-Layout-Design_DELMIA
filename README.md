@@ -15,6 +15,7 @@ Creating an automobile parts production factory simulation in DELMIA involves se
 
 
 # PROTOTYPE MODEL (Photo)
+<img width="1280" height="960" alt="WhatsApp Image 2026-06-14 at 12 50 07 PM" src="https://github.com/user-attachments/assets/309b5cf1-176e-4f0e-8838-384cdec6d69c" />
 
 # INFERENCE
 The development of an automobile parts production factory simulation in DELMIA demonstrates how digital manufacturing tools can be used to visualize, analyze, and optimize production systems before physical implementation. Although challenges such as accurate layout design, resource modeling, process data collection, material flow management, and simulation validation exist, overcoming these issues enables manufacturers to improve productivity, reduce costs, identify bottlenecks, and enhance operational efficiency. The simulation provides a virtual environment for testing different manufacturing scenarios, allowing informed decision-making and minimizing risks associated with factory design and production planning. As a result, DELMIA serves as a powerful platform for creating efficient, flexible, and sustainable automotive manufacturing systems.
